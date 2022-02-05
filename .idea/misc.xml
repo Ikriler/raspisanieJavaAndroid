@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ilyag/AndroidStudioProjects/Rasp/app/src/main/res/drawable/back.xml" value="0.21875" />
+        <entry key="..\:/Users/ilyag/AndroidStudioProjects/Rasp/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/ilyag/AndroidStudioProjects/Rasp/app/src/main/res/layout/recycle_item.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/ilyag/AndroidStudioProjects/Rasp/app/src/main/res/layout/recycle_item_day.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/ilyag/AndroidStudioProjects/Rasp/app/src/main/res/layout/recycle_item_para.xml" value="0.2477355072463768" />
+        <entry key="..\:/Users/ilyag/AndroidStudioProjects/Rasp/app/src/main/res/layout/recycle_item_predmet.xml" value="0.22" />
+        <entry key="..\:/Users/ilyag/AndroidStudioProjects/Rasp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3463541666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

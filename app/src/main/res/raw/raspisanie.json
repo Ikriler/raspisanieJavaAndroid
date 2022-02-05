@@ -1,0 +1,183 @@
+{
+  "days": [
+    {
+      "title_day": "Понедельник",
+      "paras": [
+        {
+          "para_number": "1",
+          "predmets": [
+            {
+              "name_predmet": "РПМ",
+              "name_prepod": "А.Ю Бушин"
+            },
+            {
+              "name_predmet": "Разработка БД",
+              "name_prepod": "А.С. Токарчук"
+            }
+          ]
+        },
+        {
+          "para_number": "2",
+          "predmets": [
+            {
+              "name_predmet": "Физ-ра",
+              "name_prepod": "Д.М. Салоникес"
+            }
+          ]
+        },
+        {
+          "para_number": "3",
+          "predmets": [
+            {
+              "name_predmet": "Разработка ПО",
+              "name_prepod": "Ю.В. Севастьянов"
+            }
+          ]
+        },
+        {
+          "para_number": "4",
+          "predmets": [
+            {
+              "name_predmet": "РМП",
+              "name_prepod": "А.А. Шимбирёв"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_day": "Вторник",
+      "paras": [
+        {
+          "para_number": "1",
+          "predmets": [
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            }
+          ]
+        },
+        {
+          "para_number": "2",
+          "predmets": [
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            },
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_day": "Среда",
+      "paras": [
+        {
+          "para_number": "1",
+          "predmets": [
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            }
+          ]
+        },
+        {
+          "para_number": "2",
+          "predmets": [
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            },
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            }
+          ]
+        },
+        {
+          "para_number": "3",
+          "predmets": [
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            },
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            }
+          ]
+        },
+        {
+          "para_number": "4",
+          "predmets": [
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            },
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_day": "Четверг",
+      "paras": [
+        {
+          "para_number": "1",
+          "predmets": [
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            }
+          ]
+        },
+        {
+          "para_number": "2",
+          "predmets": [
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            },
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title_day": "Пятница",
+      "paras": [
+        {
+          "para_number": "1",
+          "predmets": [
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            }
+          ]
+        },
+        {
+          "para_number": "2",
+          "predmets": [
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            },
+            {
+              "name_predmet": "Предмет",
+              "name_prepod": "Преподаватель"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
